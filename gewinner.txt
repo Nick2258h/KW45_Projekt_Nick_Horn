@@ -1,10 +1,2 @@
 Gewinner: ff, Zahl: 50
-Gewinner: nick, Zahl: 18
-Gewinner: , Zahl: 58
-Winner: , Number: 61
-Gewinner: bi, Zahl: 7
-Gewinner: gian, Zahl: 27
-Gewinner: 2, Zahl: 60
-Gewinner: gian, Zahl: 10
-Gewinner: fi, Zahl: 17
-Gewinner: 1, Zahl: 65
+
